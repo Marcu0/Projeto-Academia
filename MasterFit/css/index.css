@@ -1,0 +1,17 @@
+.nvblg2 {
+    width: 15rem;
+
+}
+
+footer {
+    margin: 0 auto;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(255, 255, 0), rgb(255, 165, 0));
+    flex-direction: row;
+
+}
+
+img {
+    width: auto;
+    height: auto;
+}

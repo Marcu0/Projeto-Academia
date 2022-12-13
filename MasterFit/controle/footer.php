@@ -1,6 +1,5 @@
-<div class="container-fluid">
-
-    <footer>
+<footer>
+    <div class="container-fluid">
         <img src="imgs/logo/logopreta.png" alt="MasterFit" class="nvblg2">
         <hr>
         <svg xmlns="http://www.w3.org/2000/svg" class="med" width="25" height="25" fill="currentColor" class="bi bi-tiktok" viewBox="0 0 16 16">
@@ -28,8 +27,9 @@
                 Sobre &bull; Planos &bull; Investidores &bull; Contratos &bull; Trabalhe Conosco &bull; FAC
             </h6>
         </a>
-    </footer>
-</div>
+    </div>
+</footer>
+
 <!--Fim do footer-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
 </body>

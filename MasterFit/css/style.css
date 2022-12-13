@@ -42,8 +42,8 @@ img {
 }
 
 .nvblg {
-    width: 9rem;
-    height: 3rem;
+    width: 15rem;
+    height: 5rem;
 }
 
 .nvblg2 {
@@ -55,7 +55,9 @@ img {
     opacity: 0.9;
     background-image: linear-gradient(to right, rgb(255, 255, 0), rgb(255, 165, 0));
 }
-
+li{
+    opacity: 1;
+}
 .exemplo {
     padding: 3em;
 }
@@ -75,7 +77,7 @@ button:hover {
 }
 
 .nvbw :hover {
-    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    text-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
 .maps{

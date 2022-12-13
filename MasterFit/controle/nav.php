@@ -21,9 +21,9 @@ $seleciona = mysqli_query($conexao, $sql);
 <body>
     <!--Inicio do Navbar-->
 
-    <nav class=" alert navbar navbar-expand-lg bg-warning p-5">
+    <nav class=" alert navbar navbar-expand-lg bg-warning.bg-gradient p-5">
         <div class="container-fluid">
-            <a class="navbar-brand nvbw" href="index.html" onmouseover="uScale(this)" onmouseout="dScale(this)">
+            <a class="navbar-brand nvbw" href="index.html">
                 <img src="imgs/logo/logopreta.png" alt="MasterFit" class="nvblg">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,7 +32,7 @@ $seleciona = mysqli_query($conexao, $sql);
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
                     <li class="nav-item nvbw">
-                        <a class="nav-link movingBox" href="login.html" onmouseover="uScale(this)" onmouseout="dScale(this)">Área do Cliente</a>
+                        <a class="nav-link movingBox" href="login.php" onmouseover="uScale(this)" onmouseout="dScale(this)">Área do Cliente</a>
                     </li>
                     <li class="nav-item nvbw">
                         <a class="nav-link movingBox" href="promos.html" onmouseover="uScale(this)" onmouseout="dScale(this)">Conheça nossas promoções</a>
